@@ -1,14 +1,20 @@
 # 🥛 Smart Dairy ERP Lite
 
-A full-stack Dairy Management System built using the MERN Stack (MongoDB, Express.js, React.js, Node.js) for managing dairy operations efficiently.
+A full-stack Dairy Management System built using the MERN Stack (MongoDB, Express.js, React.js, Node.js) to manage and streamline dairy operations efficiently.
 
 ## 🚀 Live Demo
 
-### Frontend
+**Frontend:**
 https://smart-dairy-erp-lite-1.onrender.com
 
-### Backend API
+**Backend API:**
 https://smart-dairy-erp-lite.onrender.com
+
+## 🔐 Login Availability
+
+Currently, **only Admin login is available** in the deployed version of this application. Staff and Farmer login functionality has not yet been implemented.
+
+**Note:** This project is currently under development, and additional user roles may be introduced in future updates.
 
 ---
 
